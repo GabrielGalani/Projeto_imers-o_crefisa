@@ -1,2 +1,2 @@
-# Projeto_imers-o_crefisa
+# Projeto_imersao_crefisa
 Imersão em dados ministrada pela empresa Crefisa
